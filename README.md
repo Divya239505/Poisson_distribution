@@ -72,8 +72,7 @@ else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
 # Output : 
-https://github.com/Divya239505/Poisson_distribution/blob/main/Screenshot%202026-03-16%20212136.png?raw=true
-
+![output](P02.png)
 
 # Results
 
